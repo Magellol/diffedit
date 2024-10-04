@@ -1,0 +1,6 @@
+diffusers
+transformers
+torch
+matplotlib
+numpy
+jupyter
